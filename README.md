@@ -1,4 +1,4 @@
-# Portfolio of Data Science Projects by Djalma Junior
+# Portfolio of Data Science powered by Djalma Junior
 
 <p align=center>
 Welcome to my portfolio, here you can find links to the Data Science projects I have been working on. The purpose of these projects is to demonstrate my skills in solving business problems using techniques and tools of Data Science.
