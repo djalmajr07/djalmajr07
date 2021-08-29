@@ -4,9 +4,8 @@
 Welcome to my portfolio, here you can find links to the Data Science projects I have been working on. The purpose of these projects is to demonstrate my skills in solving business problems using techniques and tools of Data Science.
 </p>
 
-## Djalma Junior
 
-###### Data Scientist
+# Data Science
 
 I am a data scientist experienced in developing business solutions end-to-end , from collecting data and creating Machine Learning models and finally implementing.
 I have developed regression and classification problems. The details of each one of them are below.
