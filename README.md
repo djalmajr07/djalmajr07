@@ -48,7 +48,7 @@ However, the sales team has the capacity to make 20,000 calls within the campaig
 
 [Airbnb](https://github.com/djalmajr07/airbnb)
 
-![image](https://user-images.githubusercontent.com/85264359/137346811-0edc894a-419f-46a5-bcbe-908a46d3b91b.png)
+![image](https://user-images.githubusercontent.com/85264359/137347783-96d95d7d-e477-4241-a970-6686e6f1f2ec.png)
 
 New users on Airbnb can book a place to stay in 34,000+ cities across 190+ countries. By accurately predicting where a new user will book their first travel experience, Airbnb can share more personalized content with their community, decrease the average time to first booking, and better forecast demand.
 
