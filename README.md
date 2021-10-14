@@ -46,6 +46,22 @@ Insurance All surveyed nearly 380,000 customers about interest in joining a new 
 The product team selected 127,000 new customers who did not respond to the survey to participate in a campaign, in which they will receive an offer of the new car insurance product. The offer will be made by the sales team through phone calls.
 However, the sales team has the capacity to make 20,000 calls within the campaign period.
 
+[Airbnb](https://github.com/djalmajr07/airbnb)
+
+![image](https://user-images.githubusercontent.com/85264359/137346811-0edc894a-419f-46a5-bcbe-908a46d3b91b.png)
+
+New users on Airbnb can book a place to stay in 34,000+ cities across 190+ countries. By accurately predicting where a new user will book their first travel experience, Airbnb can share more personalized content with their community, decrease the average time to first booking, and better forecast demand.
+
+In this business case, you are given a list of users along with their demographics, web session records, and some summary statistics. You are asked to predict which country a new user's first booking destination will be. All the users in this dataset are from the USA.
+
+
+[StarJeans](https://github.com/djalmajr07/starjeans)
+
+![image](https://user-images.githubusercontent.com/85264359/137332650-3501f247-d830-4458-ac97-01e683c13292.png)
+
+Eduardo and Marcelo are two Brazilians, friends and business partners. After several successful business, they are planning to enter the fashion market in US as an E-commerce business model. The initial idea is to enter the market with just one product and for a specific audience, in this case the product would be Jeans for the male audience. The objective is to maintain the operating cost low and scale as they get customers. However, even with the input product and audience defined, the two partners do not have experience in this fashion market and therefore they don't know how to define basic things like price, the type of pants and the material for the manufacture of each piece. The main competitors of Star Jeans company are the American companies H&M and Macys.
+
+
 
 
 <!--
