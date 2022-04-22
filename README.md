@@ -32,19 +32,17 @@ Analytical tools:
 
 ![Sales](https://github.com/djalmajr07/rossmann-sales/blob/main/img/0_7tM5SbKstuED5_AX.jpg)
 
-The CFO requests the prediction of each store in a monthly meeting, whereas she was having difficulty to find out the best investment value for the renovations of each store, due the prediction provided by the directors was not assertive, there was a lot of divergence. Therefore to solve this problem, I used Machine Learning algorithms to forecast most precisely how would be the store prediction for the next six weeks (forty-two days).   
+The CFO requests the prediction of each store in a monthly meeting, whereas she was having difficulty to find out the best investment value for the renovations of each store, due the prediction provided by the directors was not assertive, there was a lot of divergence. Therefore to solve this problem, I used Machine Learning algorithms to forecast most precisely how would be the store prediction for the next six weeks (forty-two days). 
+
+The gross expected income of the majority of stores is in the range between R$5000.00 and R$22000.00. The chain is expected to obtain R$289,822,112.00, with best and worst case scenarios of R$290,808,412.17 and R$288,835,860.27, respectively. These scenarios are predicted using statistical errors (mean absolute percentage error).
 
 [Insurance All](https://github.com/djalmajr07/InsuranceAll)
 
 ![insurance](https://github.com/djalmajr07/InsuranceAll/blob/main/img/capa.jpg)
 
-Insurance All is a company that provides health insurance to its customers and the product team is analyzing the possibility of offering a new product: Car insurance.
-As with health insurance, customers of this new car insurance plan must pay an amount annually to Insurance All in order to obtain an amount insured by the company, intended for the costs of an eventual accident or damage to the vehicle.
+A health insurance company intends to offer its customers a new product, a vehicle insurance. In order to achieve this purpose efficiently, it gathered some information about their customers and asked if they would be interested in purchasing a new vehicle insurance. This information was passed on to a Data Science Consulting office.
 
-Insurance All surveyed nearly 380,000 customers about interest in joining a new auto insurance product last year. All customers showed interest or not in purchasing auto insurance and these responses were saved in a database along with other customer attributes.
-
-The product team selected 127,000 new customers who did not respond to the survey to participate in a campaign, in which they will receive an offer of the new car insurance product. The offer will be made by the sales team through phone calls.
-However, the sales team has the capacity to make 20,000 calls within the campaign period.
+The office delivered a report informing, among all features gathered, the most relevant ones and the probability of purchase from each customer. Qualitatively, the predicted probability provides a lift gain of 2.5, thus reducing the sales cost to 40%.
 
 [All In Insiders](https://github.com/djalmajr07/all_in_insiders)
 
@@ -53,9 +51,7 @@ All in One Place is a multi-brand 'outlet' company that sells second-line produc
 ![image](https://user-images.githubusercontent.com/85264359/153950509-554ea347-eab1-4d11-9877-8cd8057b2e63.png)
 
 
-In just over 1 year of operation, the marketing team realized that some customers from its base buy more expensive products, with high frequency and end up contributing a significant portion of the company's revenue.
-Based on this perception, the marketing team will launch a `loyalty program` for the best customers in the base, called `Insiders`. But the team does not have the advanced knowledge in data analysis to elect program participants.
-For this reason, the marketing team asked the data team to select a selection of eligible customers for the program, using advanced data manipulation techniques.
+An e-commerce company is interested in creating a loyalty program called Insiders, which will be made up of the most valuable customers in its base. The objective is to increase the company's revenue through personalized marketing campaigns for each customer group and retain the most valuable customers. In the details of this project, I segment the client base using cluster clients that define who will be the clients that will participate in the selection project. The model created/a paying company of 36 customers with high value for the business generated for one year was 2.3 million.
 
 
 [Airbnb](https://github.com/djalmajr07/airbnb)
