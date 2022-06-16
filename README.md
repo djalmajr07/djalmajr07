@@ -37,6 +37,8 @@ The CFO requests the prediction of each store in a monthly meeting, whereas she 
 
 The gross expected income of the majority of stores is in the range between R$5000.00 and R$22000.00. The chain is expected to obtain R$289,822,112.00, with best and worst case scenarios of R$290,808,412.17 and R$288,835,860.27, respectively. These scenarios are predicted using statistical errors (mean absolute percentage error).
 
+
+
 [Insurance All -> Classification](https://github.com/djalmajr07/InsuranceAll)
 
 ![insurance](https://github.com/djalmajr07/InsuranceAll/blob/main/img/capa.jpg)
@@ -44,6 +46,8 @@ The gross expected income of the majority of stores is in the range between R$50
 A health insurance company intends to offer its customers a new product, a vehicle insurance. In order to achieve this purpose efficiently, it gathered some information about their customers and asked if they would be interested in purchasing a new vehicle insurance. This information was passed on to a Data Science Consulting office.
 
 The office delivered a report informing, among all features gathered, the most relevant ones and the probability of purchase from each customer. Qualitatively, the predicted probability provides a lift gain of 2.5, thus reducing the sales cost to 40%.
+
+
 
 [All In Insiders -> Clustering](https://github.com/djalmajr07/all_in_insiders)
 
@@ -54,12 +58,15 @@ All in One Place is a multi-brand 'outlet' company that sells second-line produc
 
 An e-commerce company is interested in creating a loyalty program called Insiders, which will be made up of the most valuable customers in its base. The objective is to increase the company's revenue through personalized marketing campaigns for each customer group and retain the most valuable customers. In the details of this project, I segment the client base using cluster clients that define who will be the clients that will participate in the selection project. The model created/a paying company of 36 customers with high value for the business generated for one year was 2.3 million.
 
+
+
 [Top Bottom Bank -> Classification](https://github.com/djalmajr07/topbottombank)
 
 ![image](https://user-images.githubusercontent.com/85264359/174097629-52c80686-f2c2-402c-9311-a3600d493e0d.png)
 
 Top Bottom Bank is a large banking company. It operates mainly in European countries offering financial products, from bank accounts to investments, including some types of insurance and investment products. In recent months, the Analytics team has noticed that the rate of customers canceling their accounts and leaving the bank, reached unprecedented numbers in the company. Concerned about the increase in this rate, the team planned a
 action plan to reduce customer evasion rate. The bank potential recovery after this solution: **$1.049.386,00** with a **ROI of 4198%**
+
 
 
 [Airbnb -> Neural Network](https://github.com/djalmajr07/airbnb)
@@ -69,6 +76,7 @@ action plan to reduce customer evasion rate. The bank potential recovery after t
 New users on Airbnb can book a place to stay in 34,000+ cities across 190+ countries. By accurately predicting where a new user will book their first travel experience, Airbnb can share more personalized content with their community, decrease the average time to first booking, and better forecast demand.
 
 In this business case, you are given a list of users along with their demographics, web session records, and some summary statistics. You are asked to predict which country a new user's first booking destination will be. All the users in this dataset are from the USA.
+
 
 
 [StarJeans -> ETL](https://github.com/djalmajr07/starjeans)
