@@ -53,6 +53,13 @@ All in One Place is a multi-brand 'outlet' company that sells second-line produc
 
 An e-commerce company is interested in creating a loyalty program called Insiders, which will be made up of the most valuable customers in its base. The objective is to increase the company's revenue through personalized marketing campaigns for each customer group and retain the most valuable customers. In the details of this project, I segment the client base using cluster clients that define who will be the clients that will participate in the selection project. The model created/a paying company of 36 customers with high value for the business generated for one year was 2.3 million.
 
+[Top Bottom Bank](https://github.com/djalmajr07/topbottombank)
+
+![image](https://user-images.githubusercontent.com/85264359/174097629-52c80686-f2c2-402c-9311-a3600d493e0d.png)
+
+Top Bottom Bank is a large banking company. It operates mainly in European countries offering financial products, from bank accounts to investments, including some types of insurance and investment products. In recent months, the Analytics team has noticed that the rate of customers canceling their accounts and leaving the bank, reached unprecedented numbers in the company. Concerned about the increase in this rate, the team planned a
+action plan to reduce customer evasion rate. The bank potential recovery after this solution: **$1.049.386,00** with a **ROI of 4198%**
+
 
 [Airbnb](https://github.com/djalmajr07/airbnb)
 
