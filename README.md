@@ -29,7 +29,7 @@ Analytical tools:
 ## Data Science Projects
 
 
-[Rossmann Sales -> Time Series](https://github.com/djalmajr07/rossmann-sales)
+[Rossmann Sales -> Regression](https://github.com/djalmajr07/rossmann-sales)
 
 ![Sales](https://github.com/djalmajr07/rossmann-sales/blob/main/img/0_7tM5SbKstuED5_AX.jpg)
 
