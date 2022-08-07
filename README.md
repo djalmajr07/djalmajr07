@@ -31,7 +31,7 @@ Analytical tools:
 
 [Rossmann Sales -> Regression](https://github.com/djalmajr07/rossmann-sales)
 
-![Sales](https://github.com/djalmajr07/rossmann-sales/blob/main/img/0_7tM5SbKstuED5_AX.jpg)
+![rossmann](https://user-images.githubusercontent.com/85264359/183309979-2293b0ad-7787-497b-a8e4-9502cd33b307.png)
 
 The CFO requests the prediction of each store in a monthly meeting, whereas she was having difficulty to find out the best investment value for the renovations of each store, due the prediction provided by the directors was not assertive, there was a lot of divergence. Therefore to solve this problem, I used Machine Learning algorithms to forecast most precisely how would be the store prediction for the next six weeks (forty-two days). 
 
@@ -41,7 +41,7 @@ The gross expected income of the majority of stores is in the range between R$50
 
 [Insurance All -> Classification](https://github.com/djalmajr07/InsuranceAll)
 
-![insurance](https://github.com/djalmajr07/InsuranceAll/blob/main/img/capa.jpg)
+![insurance](https://user-images.githubusercontent.com/85264359/183309986-a0e772a9-21e5-4bf2-9439-7d5afc334281.png)
 
 A health insurance company intends to offer its customers a new product, a vehicle insurance. In order to achieve this purpose efficiently, it gathered some information about their customers and asked if they would be interested in purchasing a new vehicle insurance. This information was passed on to a Data Science Consulting office.
 
@@ -53,7 +53,7 @@ The office delivered a report informing, among all features gathered, the most r
 
 All in One Place is a multi-brand 'outlet' company that sells second-line products from different brands at a lower price through an 'e-commerce'.
 
-![image](https://user-images.githubusercontent.com/85264359/153950509-554ea347-eab1-4d11-9877-8cd8057b2e63.png)
+![insiders](https://user-images.githubusercontent.com/85264359/183309991-dcb0455c-5f30-4ff5-be6e-e5b933d719ea.png)
 
 
 An e-commerce company is interested in creating a loyalty program called Insiders, which will be made up of the most valuable customers in its base. The objective is to increase the company's revenue through personalized marketing campaigns for each customer group and retain the most valuable customers. In the details of this project, I segment the client base using cluster clients that define who will be the clients that will participate in the selection project. The model created/a paying company of 36 customers with high value for the business generated for one year was 2.3 million.
@@ -62,21 +62,21 @@ An e-commerce company is interested in creating a loyalty program called Insider
 
 [Top Bottom Bank -> Classification](https://github.com/djalmajr07/topbottombank)
 
-![image](https://user-images.githubusercontent.com/85264359/174097629-52c80686-f2c2-402c-9311-a3600d493e0d.png)
+![topbottom](https://user-images.githubusercontent.com/85264359/183309997-17d0b382-d057-4ed0-9bfa-217835f49ad9.png)
 
 Top Bottom Bank is a large banking company. It operates mainly in European countries offering financial products, from bank accounts to investments, including some types of insurance and investment products. In recent months, the Analytics team has noticed that the rate of customers canceling their accounts and leaving the bank, reached unprecedented numbers in the company. Concerned about the increase in this rate, the team planned a
 action plan to reduce customer evasion rate. The bank potential recovery after this solution: **$1.049.386,00** with a **ROI of 4198%**
 
 [Eletronic House -> AB Testing](https://github.com/djalmajr07/ab_testing_page_conversion)
 
-![image](https://user-images.githubusercontent.com/85264359/183309515-f94eb10d-63c4-4153-ae29-681d6a19d6e6.png)
+![james](https://user-images.githubusercontent.com/85264359/183310002-5fbe9f2e-24ba-4e6b-aa90-58686fd9e953.png)
 
 The UX designers team has been working on a new sales page, with the objective of increasing the conversion rate of a store product, a keyboard bluetooth.The product manager said the current page conversion rate is 13% on average over the last year. The product manager's goal is to increase the conversion rate by 2%, that is, the new sales page, developed by the UX team, would be a success if its conversion rate was 15%. Well statistically the new page has no effect, even though I went further with a simulation that considered the success of the new page and the Gross Margin Value(buyers * product) was $193.563.000 while the old page GMV was 167.760.000. The absolute lift is: 25.803.000 and The expected lift for the new page is: 15.38%.
 
 
 [Airbnb -> Neural Network](https://github.com/djalmajr07/airbnb)
 
-![image](https://user-images.githubusercontent.com/85264359/137347783-96d95d7d-e477-4241-a970-6686e6f1f2ec.png)
+![png](https://user-images.githubusercontent.com/85264359/183310021-9fcbd765-0d58-49f3-af8a-254beebc2482.png)
 
 New users on Airbnb can book a place to stay in 34,000+ cities across 190+ countries. By accurately predicting where a new user will book their first travel experience, Airbnb can share more personalized content with their community, decrease the average time to first booking, and better forecast demand.
 
@@ -86,7 +86,7 @@ In this business case, you are given a list of users along with their demographi
 
 [StarJeans -> ETL](https://github.com/djalmajr07/starjeans)
 
-![image](https://user-images.githubusercontent.com/85264359/137332650-3501f247-d830-4458-ac97-01e683c13292.png)
+![star](https://user-images.githubusercontent.com/85264359/183310010-9c1df731-636a-4a9a-9cf5-8d8506a12dec.png)
 
 Eduardo and Marcelo are two Brazilians, friends and business partners. After several successful business, they are planning to enter the fashion market in US as an E-commerce business model. The initial idea is to enter the market with just one product and for a specific audience, in this case the product would be Jeans for the male audience. The objective is to maintain the operating cost low and scale as they get customers. However, even with the input product and audience defined, the two partners do not have experience in this fashion market and therefore they don't know how to define basic things like price, the type of pants and the material for the manufacture of each piece. The main competitors of Star Jeans company are the American companies H&M and Macys.
 
