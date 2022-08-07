@@ -67,6 +67,11 @@ An e-commerce company is interested in creating a loyalty program called Insider
 Top Bottom Bank is a large banking company. It operates mainly in European countries offering financial products, from bank accounts to investments, including some types of insurance and investment products. In recent months, the Analytics team has noticed that the rate of customers canceling their accounts and leaving the bank, reached unprecedented numbers in the company. Concerned about the increase in this rate, the team planned a
 action plan to reduce customer evasion rate. The bank potential recovery after this solution: **$1.049.386,00** with a **ROI of 4198%**
 
+[Eletronic House -> AB Testing](https://github.com/djalmajr07/ab_testing_page_conversion)
+
+![image](https://user-images.githubusercontent.com/85264359/183309515-f94eb10d-63c4-4153-ae29-681d6a19d6e6.png)
+
+The UX designers team has been working on a new sales page, with the objective of increasing the conversion rate of a store product, a keyboard bluetooth.The product manager said the current page conversion rate is 13% on average over the last year. The product manager's goal is to increase the conversion rate by 2%, that is, the new sales page, developed by the UX team, would be a success if its conversion rate was 15%. Well statistically the new page has no effect, even though I went further with a simulation that considered the success of the new page and the Gross Margin Value(buyers * product) was $193.563.000 while the old page GMV was 167.760.000. The absolute lift is: 25.803.000 and The expected lift for the new page is: 15.38%.
 
 
 [Airbnb -> Neural Network](https://github.com/djalmajr07/airbnb)
