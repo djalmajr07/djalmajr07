@@ -11,10 +11,10 @@ I am a data scientist experienced in developing business solutions end-to-end , 
 I have developed regression and classification problems. The details of each one of them are below.
 
 Analytical tools:
-- Data Collection: MySQL, Postgres.
-- Data Manipulation: Python, Pandas.
-- Data Visualization, Deploy and Cloud with Heroku.
-- Exploratory Data Analysis with Numpy, Seaborn and Pyplot.
+- Data Collection: MySQL, Postgres, GCP(BigQuery), AWS(S3).
+- Data Manipulation: Python, Pandas, PySpark.
+- Cloud: GCP, AWS, Heroku.
+- Exploratory Data Analysis: Numpy, Seaborn and Pyplot.
 - Data Preparation and Feature Selection with Boruta, Random Forest.
 - Machine Learning: KNN, XGBoost, Naive Bayes etc.
 
