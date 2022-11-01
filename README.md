@@ -12,11 +12,13 @@ I have developed regression and classification problems. The details of each one
 
 Analytical tools:
 - Data Collection: MySQL, Postgres, GCP(BigQuery), AWS(S3).
-- Data Manipulation: Python, Pandas, PySpark.
+- Data Manipulation: PySpark, TensorFlow, SciPy, Spacy,Panda, Matplotlib, SciKit-Learn, etc.
 - Cloud: GCP, AWS, Heroku.
 - Exploratory Data Analysis: Numpy, Seaborn and Pyplot.
 - Data Preparation and Feature Selection with Boruta, Random Forest.
-- Machine Learning: KNN, XGBoost, Naive Bayes etc.
+- Machine Learning: KNN, XGBoost, Naive Bayes, BERT, RoBERTa, etc.
+- Data Visualization: PowerBI, Metabase, Streamlit.
+- DataBase: MySQL, ElasticSearch, SQL Server 
 
 ## Contacts
 
