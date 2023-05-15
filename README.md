@@ -96,7 +96,7 @@ Eduardo and Marcelo are two Brazilians, friends and business partners. After sev
 
 ![SQL Cases](https://user-images.githubusercontent.com/85264359/183313798-612bd1e0-1dd8-4587-bf6c-df5ab03f0dd4.png)
 
-This repository I show my cases solved with sql
+This repository contains the solutions for the case studies in 8WeekSQLChallenge. The 8 Week SQL Challenge is started by Danny Ma through Data With Danny virtual data apprenticeship program, which consists of 8 different SQL challenges.
 
 
 <!--
